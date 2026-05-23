@@ -42,3 +42,6 @@ Además, el CI está preparado para ejecutar SonarQube cuando existen los secret
 ## Objetivo
 
 Una landing moderna y modular para validar AgroTechIA antes de pasar a la siguiente fase de dashboard real e integración IoT.
+
+
+esto es una prueba 
